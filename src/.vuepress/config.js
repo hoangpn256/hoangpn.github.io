@@ -14,11 +14,6 @@ module.exports = {
       },
     ],
   ],
-  nav: [
-    { text: "Trang Chủ", link: "/" },
-    { text: "Giới Thiệu", link: "/about/" },
-    { text: "Ehkoo", link: "https://ehkoo.com" },
-  ],
   markdown: {
     lineNumbers: true,
   },
