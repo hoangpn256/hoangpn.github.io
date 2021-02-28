@@ -1,5 +1,4 @@
-
-name: Deploy to GH pages
+name: Deploy to GH Pages
 on: [push]
 jobs:
   build-and-deploy:
@@ -13,6 +12,6 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: hoangpn256/hoangpn.github.io
-        TARGET_BRANCH: master
+        TARGET_BRANCH: gh_pages
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: src/.vuepress/dist/
