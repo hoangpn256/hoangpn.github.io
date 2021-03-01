@@ -1,8 +1,7 @@
 module.exports = {
   title: "Hoangpn Blog",
   titleIcon: "/favicon.ico",
-  description:
-    "💥The simple personal blog create by hoangpn, theme by vuepress-blog-theme",
+  description: "💥The simple personal blog create by hoangpn",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico", type: "image/x-icon" }],
     [
@@ -19,10 +18,24 @@ module.exports = {
   },
   theme: "blog-vuetify",
   themeConfig: {
+    directories: [
+      {
+        id: "post",
+        dirname: "_posts",
+        path: "/",
+        itemPermalink: "/post/:slug",
+        frontmatter: {
+          home: true,
+        },
+      },
+    ],
+
     globalPagination: {
       lengthPerPage: 3,
     },
+
     titleIcon: "pencil-box-outline",
+
     sidebar: {
       profile: {
         avatarUrl: "/avatar.jpg",
@@ -32,13 +45,16 @@ module.exports = {
           "Welcome to my blog. Mình là Hoàng, bạn có thể xem thêm về mình tại đây <a href='/about'> About me</a>",
       },
     },
+
     footer: {
       // insert link here
     },
+
     sns: {
       github: "https://github.com/hoangpn256/",
       feed: "",
     },
+
     sitemap: true,
 
     feed: {
@@ -46,14 +62,18 @@ module.exports = {
       atom: false,
       json: false,
     },
+
     seo: {
       baseUrl: "https://hoangpn.com/",
       author: "https://www.facebook.com/mrhoangpn",
       image: "/avatar.jpg",
       articleDirectoryNames: ["_posts", "_pages"],
     },
+
     summary: 300,
+
     dateFormat: "DD/MM/YYYY",
   },
+
   plugins: ["redirect-frontmatter"],
 };
