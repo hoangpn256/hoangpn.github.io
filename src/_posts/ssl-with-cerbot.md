@@ -1,7 +1,7 @@
 ---
 title: "SSl cho trang web với vài bước đơn giản 👍"
-date: 01-03-2021
-update: 01-03-2021
+date: 02-28-2021
+update: 02-28-2021
 tags:
   - ssl
   - certbot
@@ -113,3 +113,7 @@ sudo certbot certonly --nginx
 - Xong quay lại IP Public hoặc tên miền để kiểm tra
 
 ![image](https://user-images.githubusercontent.com/55786352/72715833-ca6bec80-3ba3-11ea-8f43-2fb74779031d.png)
+
+---
+
+[@hoangpn](https://hoangpn.com/) - Better every day!

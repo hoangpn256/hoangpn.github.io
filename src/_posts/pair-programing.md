@@ -1,7 +1,7 @@
 ---
 title: "Pair Programing  - Một trong những kỹ thuật phát triển phần mềm thượng thừa nên biết.👍"
 date: 04-12-2020
-update: 04-12-2020
+update: 03-01-2020
 tags:
   - pair
   - pair-programing
@@ -148,3 +148,7 @@ Theo quan điểm của tôi thì bản thân phương pháp nào cũng vậy, k
 Cuối cùng, cảm ơn bạn đã đọc đến cuối. Bất kỳ ý kiển gì hãy comment ở dưới nhé. :point_down::point_down::point_down:
 
 Hãy ủng hộ mình bằng upvote. để mình có thể cải thiện và đưa ra những bài mới tốt hơn nhé.
+
+---
+
+[@hoangpn](https://hoangpn.com/) - Better every day!
