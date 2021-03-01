@@ -63,6 +63,8 @@ module.exports = {
       json: false,
     },
 
+    ga: "UA-190755179-1",
+
     seo: {
       baseUrl: "https://hoangpn.com/",
       author: "https://www.facebook.com/mrhoangpn",
