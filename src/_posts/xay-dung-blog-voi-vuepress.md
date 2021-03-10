@@ -1,7 +1,7 @@
 ---
 title: "Xây dựng blog cá nhân đảm bảo RẺ-ĐẸP-NHANH-BỀN.👍👍"
 date: 03-01-2021
-update: 03-01-2021
+update: 03-10-2021
 tags:
   - vuepress
   - personal-blog
@@ -97,7 +97,7 @@ Mình là người Việt Nam, mà Việt Nam nói là làm, không chần chừ
 ![](https://images.viblo.asia/a1d38ad6-b393-44b6-9efb-18eda9bdbbe4.png)
 
 Chọn được rồi thì cài đặt thôi nhể :)
-https://github.com/ttskch/vuepress-theme-blog-vuetify/
+[https://github.com/ttskch/vuepress-theme-blog-vuetify/](https://github.com/ttskch/vuepress-theme-blog-vuetify/)
 
 ```js
 $ yarn add --dev vuepress-theme-blog-vuetify
@@ -136,13 +136,13 @@ Sau vài hồi config các thứ, run **_localhost:8080_** và mình đã có đ
 
 Đến đây thì lại nảy sinh một vấn đề là, ơ thế code mình như này, github pages chơi thế éo nào được, nào là **md**, nào là **package.js** :)
 
-=> Chúng ta cần phải build nó trước khi push lên github thôi. Mà vốn bản tính lười, chẳng nhẽ lần nào viết xong bài mới là lại build à, chán. Nghĩ ngay đến **github actions** => một công nghệ mà mới đây(~~chẳng qua lâu rồi mà mình không hay dùng~~) mới tích hợp vào github. Nhanh tay search ngay làm sao tự động build vuepress cho github pages. Ui xời, quả là trời không phụ lòng người, ra ngay được https://github.com/marketplace/actions/vuepress-deploy. Thôi là lại một nốt nhạc nữa :))
+=> Chúng ta cần phải build nó trước khi push lên github thôi. Mà vốn bản tính lười, chẳng nhẽ lần nào viết xong bài mới là lại build à, chán. Nghĩ ngay đến **github actions** => một công nghệ mà mới đây(~~chẳng qua lâu rồi mà mình không hay dùng~~) mới tích hợp vào github. Nhanh tay search ngay làm sao tự động build vuepress cho github pages. Ui xời, quả là trời không phụ lòng người, ra ngay được [https://github.com/marketplace/actions/vuepress-deploy](https://github.com/marketplace/actions/vuepress-deploy). Thôi là lại một nốt nhạc nữa :))
 
 Test ngay cho nóng
 
 ![](https://images.viblo.asia/a8958a1b-fd28-48b5-8268-809c5896beb7.png)
 
-Ngon luôn, bật ngay github pages check thôi, và thành quả đơn giản là https://hoangpn.com/
+Ngon luôn, bật ngay github pages check thôi, và thành quả đơn giản là [https://hoangpn.com/](https://hoangpn.com/)
 
 ![](https://images.viblo.asia/a1d38ad6-b393-44b6-9efb-18eda9bdbbe4.png)
 
