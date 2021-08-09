@@ -52,6 +52,7 @@ module.exports = {
 
     sns: {
       github: "https://github.com/hoangpn256/",
+      facebook: "https://facebook.com/mrhoangpn/",
       feed: "",
     },
 
