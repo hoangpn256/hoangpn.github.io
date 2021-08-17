@@ -31,7 +31,7 @@ module.exports = {
     ],
 
     globalPagination: {
-      lengthPerPage: 3,
+      lengthPerPage: 5,
     },
 
     titleIcon: "pencil-box-outline",
