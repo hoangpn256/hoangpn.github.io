@@ -5,7 +5,7 @@ update: 08-17-2021
 tags:
   - review code
 author: hoangpn
-image: https://kipalog.kaopiz.com/uploads/3dc5/8106/review-coding.png
+image: https://images.viblo.asia/21d2fcc6-849c-4a6c-9bcb-cac479a2ef68.png
 showThumbnail: true
 ---
 
