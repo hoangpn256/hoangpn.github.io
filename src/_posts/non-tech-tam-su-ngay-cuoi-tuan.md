@@ -1,7 +1,7 @@
 ---
 title: "[NON-TECH] Chút tâm sự ngày cuối tuần ~~"
-date: 14-01-2022
-update: 14-01-2022
+date: 01-14-2022
+update: 01-14-2022
 tags:
   - non-tech
   - developer-life
